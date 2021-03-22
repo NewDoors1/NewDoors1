@@ -1,6 +1,6 @@
- 
+ <div style="text-align:center"><img src ="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png" /></div>
 
-<img src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png" width="35"> # New Doors!
+# New Doors!
 
 ⚠️ We are a group of friends, doing projects for the *University Nove de Julho, UNINOVE*. It is here that we study Systems Analysis and Development. This profile, for the time being, is completely linked to the project requested by professor **Daniel**, since now my thanks are here.
 
@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 Contributors:
 
-## Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
+Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
 
 Vinicius
 
