@@ -1,4 +1,5 @@
-<img width="45" height="45" src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png">
+<p align="center">
+    <img src="Image.svg" alt="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png" width="45" height="45" />
 </p>
 
 # New Doors!
