@@ -9,7 +9,7 @@
 
 <!-- colocar o github de todo mundo depois e os emails-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-Contributors:
+***Contributors:***
 
 Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
 
@@ -20,6 +20,7 @@ Robson
 Ed Wander
 
 
+# Main Project
 * [My Spot](https://github.com/users/NewDoors1/projects/1)
 <!--
 
