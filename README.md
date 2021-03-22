@@ -1,6 +1,4 @@
-### NEW DOORS
-
-<img src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png" width="30">
+### NEW DOORS <img src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png" width="30">
 
 ⚠️ We are a group of friends, doing projects for the *University Nove de Julho, UNINOVE*. It is here that we study Systems Analysis and Development. This profile, for the time being, is completely linked to the project requested by professor **Daniel**, since now my thanks are here.
 
