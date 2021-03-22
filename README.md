@@ -1,4 +1,4 @@
-  <img width="45" height="45" src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png">
+<img width="45" height="45" src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/whatsapp-image-2021-03-03-at-14-40-17-removebg-preview_orig.png">
 </p>
 
 # New Doors!
@@ -9,6 +9,7 @@
 
 <!-- colocar o github de todo mundo depois e os emails-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 ***Contributors:***
 
 Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
