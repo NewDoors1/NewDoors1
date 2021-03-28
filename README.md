@@ -17,9 +17,12 @@ Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-squa
 
 Vinicius
 
-Robson
+Robson [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RobsonCostaRbn)](https://github.com/RobsonCostaRbn)
 
 Ed Wander
+
+Tiago [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagoarasi)](https://github.com/tiagoarasi)
+
 
 
 # Main Project
