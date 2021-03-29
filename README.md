@@ -22,6 +22,11 @@
 
 
 # Main Project
+
+<p align="center">
+    <img src="https://newdoors1.weebly.com/uploads/1/2/4/2/124210107/screenshot-9-removebg-preview_orig.png" alt="Image" width="75" height="75" />
+</p>
+                                                                                                                              
 * [Store iPortal](https://github.com/users/NewDoors1/projects/2)
 <!--
 
