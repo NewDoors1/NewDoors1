@@ -16,15 +16,11 @@
 * Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
 * Vinicius
 * Robson [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RobsonCostaRbn)](https://github.com/RobsonCostaRbn)
-* Ed Wander
+* Ed Wander [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edy940)](https://github.com/Edy940)
 * Tiago [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagoarasi)](https://github.com/tiagoarasi)
 
 
 
 # Main Project
-                                                                                                                              
-* [Song Song Song song](https://github.com/NewDoors1/first_part)
 
-Programa musical, focado em um público mais jovem. É o nosso projeto semestral da vez.
-<!--
 
