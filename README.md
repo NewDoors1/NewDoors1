@@ -14,11 +14,11 @@
 ***Contributors:***
 
 * Renann [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renann1)](https://github.com/Renann1)
-* Vinicius
+* Vinicius [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusBrandao2)](https://github.com/ViniciusBrandao2)
 * Robson [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RobsonCostaRbn)](https://github.com/RobsonCostaRbn)
 * Ed Wander [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edy940)](https://github.com/Edy940)
 * Tiago [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagoarasi)](https://github.com/tiagoarasi)
-
+* Lucas
 
 
 # Main Project
